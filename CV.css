@@ -1,0 +1,41 @@
+* {
+	font-family: 'Oxanium';
+}
+
+body {
+	font-size: medium;
+	font-weight: 450;
+	max-width: 1024px;
+	border: #37474F solid 1px;
+	}
+p{
+	text-align: justify;
+}
+
+h1 {
+	color: #263238;
+}
+u {
+	text-decoration-color: #FFA726;
+}
+
+.bg-main {
+	background-color: #FFA726;
+}
+
+.bg-sec {
+	background-color: #37474F;
+}
+
+.text-main {
+	color: #37474F;
+}
+
+.text-sec {
+	color: #FFA726;
+}
+
+.underline-orange {
+	border-bottom: solid 2px #FFA726;
+	padding-right: 20px;
+}
