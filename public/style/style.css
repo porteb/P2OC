@@ -2,12 +2,6 @@
 	font-family: 'Roboto';
 }
 
-/* body {
-	font-size: medium;
-	font-weight: 450;
-	max-width: 1024px;
-	border: #263238 solid 1px;
-	} */
 p{
 	text-align: justify;
 }
@@ -35,7 +29,14 @@ u {
 	color: #26A69A;
 }
 
-.underline-orange {
+.underline-title {
 	border-bottom: solid 2px #26A69A;
 	padding-right: 20px;
 }
+
+@media screen and (max-width: 991px) {
+	h1, h4 {
+	  text-align: center;
+	  
+	}
+  }
