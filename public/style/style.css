@@ -35,7 +35,10 @@ u {
 }
 
 @media screen and (max-width: 991px) {
-	h1, h4 {
+	h5 {
+		padding-top: 20px;
+	}
+	.reco {
 	  text-align: center;
 	  }
 	.titrecv {
@@ -44,6 +47,7 @@ u {
 	#titre {
 		margin-top: 20px;
 		margin-bottom: 20px;
+		text-align: center;
 	}
   }
 
