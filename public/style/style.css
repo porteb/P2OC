@@ -37,6 +37,18 @@ u {
 @media screen and (max-width: 991px) {
 	h1, h4 {
 	  text-align: center;
-	  
+	  }
+	.titrecv {
+		margin-top: 20px;
+	}
+	#titre {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+  }
+
+  @media screen and (min-width: 992px) {
+	#titre {
+		margin-left: 50px;
 	}
   }
