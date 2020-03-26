@@ -13,6 +13,10 @@ u {
 	text-decoration-color: #26A69A;
 }
 
+a {
+	text-decoration: none;
+}
+
 .bg-main {
 	background-color: #26A69A;
 }
