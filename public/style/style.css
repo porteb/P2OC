@@ -33,6 +33,15 @@ u {
 	border-bottom: solid 2px #26A69A;
 	padding-right: 20px;
 }
+.ico {
+	display: block;
+    height: 60px;
+	width: 60px;
+	padding-top: 12px;
+	text-align: center;
+	border: solid 2px #37474F;
+	border-radius: 50%;
+}
 
 @media screen and (max-width: 991px) {
 	h5 {
